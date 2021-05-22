@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KasturiyaCovidTrackerApp/static/css/main.7bec260e.chunk.css",
+    "main.js": "/KasturiyaCovidTrackerApp/static/js/main.9244cb7b.chunk.js",
+    "main.js.map": "/KasturiyaCovidTrackerApp/static/js/main.9244cb7b.chunk.js.map",
+    "runtime-main.js": "/KasturiyaCovidTrackerApp/static/js/runtime-main.26d95485.js",
+    "runtime-main.js.map": "/KasturiyaCovidTrackerApp/static/js/runtime-main.26d95485.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/KasturiyaCovidTrackerApp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9b60fcb7.chunk.js": "/KasturiyaCovidTrackerApp/static/js/2.9b60fcb7.chunk.js",
+    "static/js/2.9b60fcb7.chunk.js.map": "/KasturiyaCovidTrackerApp/static/js/2.9b60fcb7.chunk.js.map",
+    "index.html": "/KasturiyaCovidTrackerApp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/KasturiyaCovidTrackerApp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7bec260e.chunk.css.map": "/KasturiyaCovidTrackerApp/static/css/main.7bec260e.chunk.css.map",
+    "static/js/2.9b60fcb7.chunk.js.LICENSE.txt": "/KasturiyaCovidTrackerApp/static/js/2.9b60fcb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26d95485.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.9b60fcb7.chunk.js",
+    "static/css/main.7bec260e.chunk.css",
+    "static/js/main.9244cb7b.chunk.js"
+  ]
+}
